@@ -1,7 +1,7 @@
  # Hi! 
  This is a Password Generator. In fact, it **generates passwords that are difficult to crack**.
  You can use this **as a strong password suggestion for your login pages**.  
- Here's how: <b class="text-danger">Strong password:</b><span class="text-light bg-black" id="OutputRew"></span>        
+ Here's how: <b class="text-danger">Strong password:=Ptz71p1vL>,G[)Sd()^</b><span class="text-light bg-black" id="OutputRew"></span>        
  Or you can shape the code and use it in **various wordlists**.
  That's it from me **for now**, see you in other applications.
  
