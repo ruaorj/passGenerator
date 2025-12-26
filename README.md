@@ -7,6 +7,6 @@
  
  ### ![proof](https://github.com/user-attachments/assets/0b6707e1-8d52-4edd-9753-ebe4e57c284d)
 
-Find Me on
+# Find Me on
   <a href="https://linktr.ee/Mass4cre_P0int" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
   <a href="https://github.com/ruaorj" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
